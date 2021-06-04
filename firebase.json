@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "site": "doher-6a063",
+    "public": "public",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
